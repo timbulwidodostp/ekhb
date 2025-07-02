@@ -1,4 +1,4 @@
-D 'DEA': Data envelopment analysis
+D 'ekhb': Extended decomposition of effects in non-linear probability models using the KHB-method Use ekhb With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F ekhb.ado
+F ekhb.sthlp
