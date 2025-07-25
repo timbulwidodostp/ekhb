@@ -1,6 +1,8 @@
 # ekhb
 Extended decomposition of effects in non-linear probability models using the KHB-method Use ekhb With STATA 19
 
+https://www.youtube.com/watch?v=FErSEIzODxA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
